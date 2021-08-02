@@ -1,0 +1,1 @@
+output "tf_demo_instance_address" { value = google_compute_address.tf-demo-instance-address.address }
