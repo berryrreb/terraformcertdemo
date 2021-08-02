@@ -1,0 +1,5 @@
+*-secrets.tf
+lock.json
+.terraform
+.DS_Store
+.terraform.lock.hcl
